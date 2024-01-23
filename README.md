@@ -3,3 +3,5 @@ Task automation for HTB CTFs.
 
 ### Requirements installation
 * pip freeze > requirements.txt
+
+### Have Fun
